@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.eeda377a.chunk.css",
+    "main.js": "/static/js/main.089fbd76.chunk.js",
+    "main.js.map": "/static/js/main.089fbd76.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e1f68fba.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e1f68fba.js.map",
+    "static/js/2.8a29a0e0.chunk.js": "/static/js/2.8a29a0e0.chunk.js",
+    "static/js/2.8a29a0e0.chunk.js.map": "/static/js/2.8a29a0e0.chunk.js.map",
+    "static/js/3.19366045.chunk.js": "/static/js/3.19366045.chunk.js",
+    "static/js/3.19366045.chunk.js.map": "/static/js/3.19366045.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.eeda377a.chunk.css.map": "/static/css/main.eeda377a.chunk.css.map",
+    "static/js/2.8a29a0e0.chunk.js.LICENSE.txt": "/static/js/2.8a29a0e0.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg",
+    "static/media/person.a09b7eb6.png": "/static/media/person.a09b7eb6.png",
+    "static/media/연령별.54e9eca1.jpg": "/static/media/연령별.54e9eca1.jpg",
+    "static/media/워드 클라우드.deee2d2d.jpg": "/static/media/워드 클라우드.deee2d2d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e1f68fba.js",
+    "static/js/2.8a29a0e0.chunk.js",
+    "static/css/main.eeda377a.chunk.css",
+    "static/js/main.089fbd76.chunk.js"
+  ]
+}
